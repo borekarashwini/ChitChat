@@ -10,13 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".DashboardActivity"
+            android:exported="true" />
+        <activity
             android:name=".SignupActivity"
             android:exported="true"
-            android:label="New Account"/>
+            android:label="New Account" />
         <activity
             android:name=".LoginActivity"
             android:exported="true"
-            android:label="Login"/>
+            android:label="Login" />
         <activity
             android:name=".MainActivity"
             android:exported="true"

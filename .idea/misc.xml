@@ -5,10 +5,13 @@
       <map>
         <entry key="..\:/Users/Ashwini/AndroidStudioProjects/ChitChat/app/src/main/res/drawable/button_style.xml" value="0.2703125" />
         <entry key="..\:/Users/Ashwini/AndroidStudioProjects/ChitChat/app/src/main/res/drawable/button_style_2.xml" value="0.2703125" />
+        <entry key="..\:/Users/Ashwini/AndroidStudioProjects/ChitChat/app/src/main/res/drawable/button_style_rounded.xml" value="0.2703125" />
         <entry key="..\:/Users/Ashwini/AndroidStudioProjects/ChitChat/app/src/main/res/drawable/textbox.xml" value="0.2703125" />
+        <entry key="..\:/Users/Ashwini/AndroidStudioProjects/ChitChat/app/src/main/res/layout/activity_dashboard.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Ashwini/AndroidStudioProjects/ChitChat/app/src/main/res/layout/activity_login.xml" value="0.2" />
         <entry key="..\:/Users/Ashwini/AndroidStudioProjects/ChitChat/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
         <entry key="..\:/Users/Ashwini/AndroidStudioProjects/ChitChat/app/src/main/res/layout/activity_signup.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Ashwini/AndroidStudioProjects/ChitChat/app/src/main/res/menu/menu.xml" value="0.25416666666666665" />
       </map>
     </option>
   </component>
